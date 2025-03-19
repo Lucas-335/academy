@@ -1,0 +1,3 @@
+token=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
+usuario=Lucas-335
+repositorio=academy
